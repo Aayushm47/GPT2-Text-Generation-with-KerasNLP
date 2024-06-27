@@ -97,7 +97,7 @@ We welcome contributions to this project! To contribute, follow these steps:
 
 
 
-For any questions or inquiries, please contact [your-aayushmetri3@gmail.com
+For any questions or inquiries, please contact [aayushmetri3@gmail.com
 ](mailto:aayushmetri3@gmail.com
 ).
 
